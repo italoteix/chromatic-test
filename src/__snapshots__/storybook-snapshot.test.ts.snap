@@ -1,0 +1,1847 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Components/Badge Default 1`] = `
+<div
+  className="sc-dlfnuX cyuLxE"
+>
+  <span
+    className="sc-bdfBQB lnbtQY"
+    fontWeight="regular"
+    size="S"
+  >
+    Hamburgers
+  </span>
+</div>
+`;
+
+exports[`Storyshots Components/Button Default 1`] = `
+<button
+  className="sc-jSgvzq iAXhpz"
+  type="button"
+/>
+`;
+
+exports[`Storyshots Components/RestaurantCard Closed 1`] = `
+<div
+  className="sc-hKgJUU bxgIKo"
+  data-testid="restaurant-card"
+>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "position": "relative",
+      }
+    }
+  >
+    <div
+      className="sc-gKseQn fqPyEe"
+    >
+      <span
+        className="sc-bdfBQB iMrOPE"
+        fontWeight="regular"
+        size=""
+      >
+        This restaurant is closed.
+      </span>
+    </div>
+    <img
+      alt="restaurant"
+      className="sc-iBPTik fFyTif"
+      loading="lazy"
+      src="https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1003&q=20"
+    />
+  </div>
+  <div
+    className="sc-eCstlR uSKtD"
+  >
+    <h2
+      className="sc-gsTEea fRjfYf sc-jrAFXE eNetqY"
+    >
+      Burger King
+       
+    </h2>
+    <div>
+      ★ 4.2 Very good
+    </div>
+    <p
+      className="sc-bdfBQB iMrOPE sc-fubCzh jMUooS"
+      fontWeight="regular"
+      size=""
+    >
+      Nicest place for burgers
+    </p>
+    <div
+      className="sc-dlfnuX cyuLxE sc-pGacB bkFhS"
+    >
+      <span
+        className="sc-bdfBQB lnbtQY"
+        fontWeight="regular"
+        size="S"
+      >
+        comfort-food
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Components/RestaurantCard Default 1`] = `
+<div
+  className="sc-hKgJUU bxgIKo"
+  data-testid="restaurant-card"
+>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "position": "relative",
+      }
+    }
+  >
+    <img
+      alt="restaurant"
+      className="sc-iBPTik gZjbWQ"
+      loading="lazy"
+      src="https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1003&q=20"
+    />
+  </div>
+  <div
+    className="sc-eCstlR uSKtD"
+  >
+    <h2
+      className="sc-gsTEea fRjfYf sc-jrAFXE eNetqY"
+    >
+      Burger King
+       
+    </h2>
+    <div>
+      ★ 4.2 Very good
+    </div>
+    <p
+      className="sc-bdfBQB iMrOPE sc-fubCzh jMUooS"
+      fontWeight="regular"
+      size=""
+    >
+      Nicest place for burgers
+    </p>
+    <div
+      className="sc-dlfnuX cyuLxE sc-pGacB bkFhS"
+    >
+      <span
+        className="sc-bdfBQB lnbtQY"
+        fontWeight="regular"
+        size="S"
+      >
+        comfort-food
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Components/RestaurantCard Loading 1`] = `
+<div
+  className="css-1lbrj8r-SkeletonTheme"
+>
+  <div
+    className="sc-hKgJUU bxgIKo"
+    data-testid="loading"
+  >
+    <span>
+      <span
+        className="react-loading-skeleton css-1eg0sfo-skeletonStyles-Skeleton"
+        style={
+          Object {
+            "height": 200,
+            "width": "100%",
+          }
+        }
+      >
+        ‌
+      </span>
+    </span>
+    <div
+      className="sc-eCstlR uSKtD"
+    >
+      <h2
+        className="sc-gsTEea fRjfYf sc-jrAFXE eNetqY"
+      >
+        <span>
+          <span
+            className="react-loading-skeleton css-1eg0sfo-skeletonStyles-Skeleton"
+            style={
+              Object {
+                "width": "50%",
+              }
+            }
+          >
+            ‌
+          </span>
+        </span>
+      </h2>
+      <span
+        className="sc-bdfBQB iMrOPE"
+        fontWeight="regular"
+        size=""
+      >
+        <span>
+          <span
+            className="react-loading-skeleton css-1eg0sfo-skeletonStyles-Skeleton"
+            style={
+              Object {
+                "width": "35%",
+              }
+            }
+          >
+            ‌
+          </span>
+        </span>
+      </span>
+      <p
+        className="sc-bdfBQB iMrOPE sc-fubCzh jMUooS"
+        fontWeight="regular"
+        size=""
+      >
+        <span>
+          <span
+            className="react-loading-skeleton css-1eg0sfo-skeletonStyles-Skeleton"
+            style={Object {}}
+          >
+            ‌
+          </span>
+        </span>
+      </p>
+      <span
+        className="sc-bdfBQB iMrOPE"
+        fontWeight="regular"
+        size=""
+      >
+        <span>
+          <span
+            className="react-loading-skeleton css-1eg0sfo-skeletonStyles-Skeleton"
+            style={
+              Object {
+                "height": "23px",
+                "marginTop": 24,
+                "width": "25%",
+              }
+            }
+          >
+            ‌
+          </span>
+        </span>
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Components/RestaurantCard New 1`] = `
+<div
+  className="sc-hKgJUU bxgIKo"
+  data-testid="restaurant-card"
+>
+  <span
+    className="sc-jSgvzq iFYIwe"
+  >
+    new
+  </span>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "position": "relative",
+      }
+    }
+  >
+    <img
+      alt="restaurant"
+      className="sc-iBPTik gZjbWQ"
+      loading="lazy"
+      src="https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1003&q=20"
+    />
+  </div>
+  <div
+    className="sc-eCstlR uSKtD"
+  >
+    <h2
+      className="sc-gsTEea fRjfYf sc-jrAFXE eNetqY"
+    >
+      Burger King
+       
+    </h2>
+    <div>
+      ★ 4.2 Very good
+    </div>
+    <p
+      className="sc-bdfBQB iMrOPE sc-fubCzh jMUooS"
+      fontWeight="regular"
+      size=""
+    >
+      Nicest place for burgers
+    </p>
+    <div
+      className="sc-dlfnuX cyuLxE sc-pGacB bkFhS"
+    >
+      <span
+        className="sc-bdfBQB lnbtQY"
+        fontWeight="regular"
+        size="S"
+      >
+        comfort-food
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Components/Review Adequate 1`] = `
+<div>
+  ★ 2.5 Adequate
+</div>
+`;
+
+exports[`Storyshots Components/Review Default 1`] = `
+<div>
+  No reviews yet
+</div>
+`;
+
+exports[`Storyshots Components/Review Excellent 1`] = `
+<div>
+  ★ 5.0 Excellent
+</div>
+`;
+
+exports[`Storyshots Components/Review Very Good 1`] = `
+<div>
+  ★ 4.3 Very good
+</div>
+`;
+
+exports[`Storyshots Components/Review Very Poor 1`] = `
+<div>
+  ★ 1.0 Very poor
+</div>
+`;
+
+exports[`Storyshots Page/HomePage/Components/RestaurantsSection Default 1`] = `
+<div
+  className="sc-bqyKOL iZVriA container-desktop"
+>
+  <div
+    className="sc-kstqJO gkvIai"
+  >
+    <h2
+      className="sc-gsTEea fRjfYf"
+    >
+      Near you
+    </h2>
+  </div>
+  <div
+    className="react-multi-carousel-list carousel-container "
+  >
+    <ul
+      className="react-multi-carousel-track "
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onMouseMove={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      style={
+        Object {
+          "overflow": "unset",
+          "transform": "translate3d(0px,0,0)",
+          "transition": "none",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Page/HomePage/Components/RestaurantsSection Loading 1`] = `
+<div
+  className="sc-bqyKOL iZVriA container-desktop"
+>
+  <div
+    className="sc-kstqJO gkvIai"
+  >
+    <h2
+      className="sc-gsTEea fRjfYf"
+    >
+      Near you
+    </h2>
+  </div>
+  <div
+    className="react-multi-carousel-list carousel-container "
+  >
+    <ul
+      className="react-multi-carousel-track "
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onMouseMove={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      style={
+        Object {
+          "overflow": "unset",
+          "transform": "translate3d(0px,0,0)",
+          "transition": "none",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Pages/RestaurantDetailPage Default 1`] = `
+Array [
+  <div
+    id="modal"
+  />,
+  <div
+    className="sc-hTZgZg lpaJRt"
+    data-testid="header"
+  >
+    <a
+      aria-label="go to home page"
+      className="sc-jgHCSr bWoIPH"
+      href="/"
+      onClick={[Function]}
+    >
+      <div
+        className="sc-Azgjq fEhdus"
+      >
+        <svg
+          className="sc-cOajNj ofwyO"
+          fill="none"
+          viewBox="0 0 23 20"
+        >
+          <path
+            className="logo--face-left"
+            d="M11.74 19.1662L6.66566 14.0788L0.82428 11.0619L1.76834 4.49574L0.82428 0.029541L11.74 2.1887V19.1662Z"
+            fill="#61D8DE"
+          />
+          <path
+            className="logo--face-right"
+            d="M11.74 19.1366L16.8143 14.0493L22.6557 11.0619L21.7116 4.49574L22.6557 0.029541L11.74 2.1887V19.1366Z"
+            fill="#4CC8C0"
+          />
+          <path
+            className="logo--ear-bottom-right"
+            d="M22.6262 10.8549L14.4246 2.72113L22.6262 0L21.7411 4.61408L22.6262 10.8549Z"
+            fill="#36C1BF"
+          />
+          <path
+            className="logo--ear-bottom-left"
+            d="M0.883118 10.8549L9.11415 2.69155L0.883118 0L1.79768 4.61408L0.883118 10.8549Z"
+            fill="#36C1BF"
+          />
+          <path
+            className="logo--ear-top-right"
+            d="M21.7115 4.55497C21.564 4.58455 14.454 2.78033 14.454 2.78033L22.5671 0.0592041L21.7115 4.55497Z"
+            fill="#22ACA7"
+          />
+          <path
+            className="logo--ear-top-left"
+            d="M1.79794 4.58452C1.94545 4.6141 9.05541 2.80987 9.05541 2.80987L0.942383 0.0887451L1.79794 4.58452Z"
+            fill="#22ACA7"
+          />
+          <path
+            className="logo--nose"
+            d="M13.3626 17.5394L11.74 16.4451L10.1174 17.5394L11.74 19.1366L13.3626 17.5394Z"
+            fill="#B1DCE3"
+          />
+        </svg>
+        <h4
+          className="sc-gsTEea kxkbCS sc-khAkCZ jkgfPJ"
+        >
+          MealDrop
+        </h4>
+      </div>
+    </a>
+    <div
+      className="sc-gTgzoy bcnXks"
+    >
+      <span
+        className="navigation-items"
+      >
+        <button
+          aria-label="turn on dark mode"
+          className="sc-dQoVA iBDoIs"
+          onClick={[Function]}
+          type="button"
+        >
+          <svg
+            className="sc-kEjbQP kCPhKQ"
+            height="1.5rem"
+            stroke="#2C2C2C "
+            style={
+              Object {
+                "minWidth": "1.5rem",
+              }
+            }
+            width="1.5rem"
+          >
+            <use
+              xlinkHref="sprite-map.svg#sun"
+            />
+          </svg>
+        </button>
+        <a
+          href="/"
+          onClick={[Function]}
+          tabIndex={-1}
+        >
+          <button
+            className="sc-dQoVA AByoX"
+            type="button"
+          >
+            Home
+          </button>
+        </a>
+        <a
+          href="/categories"
+          onClick={[Function]}
+          tabIndex={-1}
+        >
+          <button
+            className="sc-dQoVA AByoX"
+            type="button"
+          >
+            All restaurants
+          </button>
+        </a>
+      </span>
+      <button
+        aria-label="food cart"
+        className="sc-dQoVA bvXfoq"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg
+          className="sc-kEjbQP kCPhKQ"
+          height="1.5rem"
+          stroke="#FFFFFF "
+          style={
+            Object {
+              "minWidth": "1.5rem",
+            }
+          }
+          width="1.5rem"
+        >
+          <use
+            xlinkHref="sprite-map.svg#cart"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>,
+  <div
+    className="sc-higWrZ iIXIwZ"
+  />,
+  <div
+    className="sc-eJMPIT cVFbGA"
+  >
+    <div
+      className="container"
+    >
+      <div
+        className="sc-nFqVA khZwWZ"
+      >
+        <div
+          className="sc-Azgjq fEhdus"
+        >
+          <svg
+            className="sc-cOajNj iuHpNS"
+            fill="none"
+            viewBox="0 0 23 20"
+          >
+            <path
+              className="logo--face-left"
+              d="M11.74 19.1662L6.66566 14.0788L0.82428 11.0619L1.76834 4.49574L0.82428 0.029541L11.74 2.1887V19.1662Z"
+              fill="#61D8DE"
+            />
+            <path
+              className="logo--face-right"
+              d="M11.74 19.1366L16.8143 14.0493L22.6557 11.0619L21.7116 4.49574L22.6557 0.029541L11.74 2.1887V19.1366Z"
+              fill="#4CC8C0"
+            />
+            <path
+              className="logo--ear-bottom-right"
+              d="M22.6262 10.8549L14.4246 2.72113L22.6262 0L21.7411 4.61408L22.6262 10.8549Z"
+              fill="#36C1BF"
+            />
+            <path
+              className="logo--ear-bottom-left"
+              d="M0.883118 10.8549L9.11415 2.69155L0.883118 0L1.79768 4.61408L0.883118 10.8549Z"
+              fill="#36C1BF"
+            />
+            <path
+              className="logo--ear-top-right"
+              d="M21.7115 4.55497C21.564 4.58455 14.454 2.78033 14.454 2.78033L22.5671 0.0592041L21.7115 4.55497Z"
+              fill="#22ACA7"
+            />
+            <path
+              className="logo--ear-top-left"
+              d="M1.79794 4.58452C1.94545 4.6141 9.05541 2.80987 9.05541 2.80987L0.942383 0.0887451L1.79794 4.58452Z"
+              fill="#22ACA7"
+            />
+            <path
+              className="logo--nose"
+              d="M13.3626 17.5394L11.74 16.4451L10.1174 17.5394L11.74 19.1366L13.3626 17.5394Z"
+              fill="#B1DCE3"
+            />
+          </svg>
+        </div>
+        <div
+          className="sc-jeGTLq bEmtah"
+        >
+          <h2
+            className="sc-gsTEea fRjfYf"
+          >
+            Discover us
+          </h2>
+          <ul>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/"
+                  onClick={[Function]}
+                >
+                  Home
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/categories"
+                  onClick={[Function]}
+                >
+                  Categories
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/about"
+                  onClick={[Function]}
+                >
+                  About
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/login"
+                  onClick={[Function]}
+                >
+                  Login
+                </a>
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="sc-jeGTLq bEmtah"
+        >
+          <h2
+            className="sc-gsTEea fRjfYf"
+          >
+            Our social media
+          </h2>
+          <ul>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="https://facebook.com"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Facebook
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="https://instagram.com"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Instagram
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="https://twitter.com"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Twitter
+                </a>
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="sc-jeGTLq bEmtah"
+        >
+          <h2
+            className="sc-gsTEea fRjfYf"
+          >
+            Check our apps
+          </h2>
+          <div
+            className="footer-bottom"
+          >
+            <img
+              alt="app store link"
+              src="appstore-banner.png"
+              style={
+                Object {
+                  "marginBottom": "0.5rem",
+                  "width": "120px",
+                }
+              }
+            />
+            <img
+              alt="google play link"
+              src="googleplay-banner.png"
+              style={
+                Object {
+                  "width": "120px",
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Pages/RestaurantDetailPage Error 1`] = `
+Array [
+  <div
+    id="modal"
+  />,
+  <div
+    className="sc-hTZgZg lpaJRt"
+    data-testid="header"
+  >
+    <a
+      aria-label="go to home page"
+      className="sc-jgHCSr bWoIPH"
+      href="/"
+      onClick={[Function]}
+    >
+      <div
+        className="sc-Azgjq fEhdus"
+      >
+        <svg
+          className="sc-cOajNj ofwyO"
+          fill="none"
+          viewBox="0 0 23 20"
+        >
+          <path
+            className="logo--face-left"
+            d="M11.74 19.1662L6.66566 14.0788L0.82428 11.0619L1.76834 4.49574L0.82428 0.029541L11.74 2.1887V19.1662Z"
+            fill="#61D8DE"
+          />
+          <path
+            className="logo--face-right"
+            d="M11.74 19.1366L16.8143 14.0493L22.6557 11.0619L21.7116 4.49574L22.6557 0.029541L11.74 2.1887V19.1366Z"
+            fill="#4CC8C0"
+          />
+          <path
+            className="logo--ear-bottom-right"
+            d="M22.6262 10.8549L14.4246 2.72113L22.6262 0L21.7411 4.61408L22.6262 10.8549Z"
+            fill="#36C1BF"
+          />
+          <path
+            className="logo--ear-bottom-left"
+            d="M0.883118 10.8549L9.11415 2.69155L0.883118 0L1.79768 4.61408L0.883118 10.8549Z"
+            fill="#36C1BF"
+          />
+          <path
+            className="logo--ear-top-right"
+            d="M21.7115 4.55497C21.564 4.58455 14.454 2.78033 14.454 2.78033L22.5671 0.0592041L21.7115 4.55497Z"
+            fill="#22ACA7"
+          />
+          <path
+            className="logo--ear-top-left"
+            d="M1.79794 4.58452C1.94545 4.6141 9.05541 2.80987 9.05541 2.80987L0.942383 0.0887451L1.79794 4.58452Z"
+            fill="#22ACA7"
+          />
+          <path
+            className="logo--nose"
+            d="M13.3626 17.5394L11.74 16.4451L10.1174 17.5394L11.74 19.1366L13.3626 17.5394Z"
+            fill="#B1DCE3"
+          />
+        </svg>
+        <h4
+          className="sc-gsTEea kxkbCS sc-khAkCZ jkgfPJ"
+        >
+          MealDrop
+        </h4>
+      </div>
+    </a>
+    <div
+      className="sc-gTgzoy bcnXks"
+    >
+      <span
+        className="navigation-items"
+      >
+        <button
+          aria-label="turn on dark mode"
+          className="sc-dQoVA iBDoIs"
+          onClick={[Function]}
+          type="button"
+        >
+          <svg
+            className="sc-kEjbQP kCPhKQ"
+            height="1.5rem"
+            stroke="#2C2C2C "
+            style={
+              Object {
+                "minWidth": "1.5rem",
+              }
+            }
+            width="1.5rem"
+          >
+            <use
+              xlinkHref="sprite-map.svg#sun"
+            />
+          </svg>
+        </button>
+        <a
+          href="/"
+          onClick={[Function]}
+          tabIndex={-1}
+        >
+          <button
+            className="sc-dQoVA AByoX"
+            type="button"
+          >
+            Home
+          </button>
+        </a>
+        <a
+          href="/categories"
+          onClick={[Function]}
+          tabIndex={-1}
+        >
+          <button
+            className="sc-dQoVA AByoX"
+            type="button"
+          >
+            All restaurants
+          </button>
+        </a>
+      </span>
+      <button
+        aria-label="food cart"
+        className="sc-dQoVA bvXfoq"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg
+          className="sc-kEjbQP kCPhKQ"
+          height="1.5rem"
+          stroke="#FFFFFF "
+          style={
+            Object {
+              "minWidth": "1.5rem",
+            }
+          }
+          width="1.5rem"
+        >
+          <use
+            xlinkHref="sprite-map.svg#cart"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>,
+  <div
+    className="sc-higWrZ iIXIwZ"
+  />,
+  <div
+    className="sc-eJMPIT cVFbGA"
+  >
+    <div
+      className="container"
+    >
+      <div
+        className="sc-nFqVA khZwWZ"
+      >
+        <div
+          className="sc-Azgjq fEhdus"
+        >
+          <svg
+            className="sc-cOajNj iuHpNS"
+            fill="none"
+            viewBox="0 0 23 20"
+          >
+            <path
+              className="logo--face-left"
+              d="M11.74 19.1662L6.66566 14.0788L0.82428 11.0619L1.76834 4.49574L0.82428 0.029541L11.74 2.1887V19.1662Z"
+              fill="#61D8DE"
+            />
+            <path
+              className="logo--face-right"
+              d="M11.74 19.1366L16.8143 14.0493L22.6557 11.0619L21.7116 4.49574L22.6557 0.029541L11.74 2.1887V19.1366Z"
+              fill="#4CC8C0"
+            />
+            <path
+              className="logo--ear-bottom-right"
+              d="M22.6262 10.8549L14.4246 2.72113L22.6262 0L21.7411 4.61408L22.6262 10.8549Z"
+              fill="#36C1BF"
+            />
+            <path
+              className="logo--ear-bottom-left"
+              d="M0.883118 10.8549L9.11415 2.69155L0.883118 0L1.79768 4.61408L0.883118 10.8549Z"
+              fill="#36C1BF"
+            />
+            <path
+              className="logo--ear-top-right"
+              d="M21.7115 4.55497C21.564 4.58455 14.454 2.78033 14.454 2.78033L22.5671 0.0592041L21.7115 4.55497Z"
+              fill="#22ACA7"
+            />
+            <path
+              className="logo--ear-top-left"
+              d="M1.79794 4.58452C1.94545 4.6141 9.05541 2.80987 9.05541 2.80987L0.942383 0.0887451L1.79794 4.58452Z"
+              fill="#22ACA7"
+            />
+            <path
+              className="logo--nose"
+              d="M13.3626 17.5394L11.74 16.4451L10.1174 17.5394L11.74 19.1366L13.3626 17.5394Z"
+              fill="#B1DCE3"
+            />
+          </svg>
+        </div>
+        <div
+          className="sc-jeGTLq bEmtah"
+        >
+          <h2
+            className="sc-gsTEea fRjfYf"
+          >
+            Discover us
+          </h2>
+          <ul>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/"
+                  onClick={[Function]}
+                >
+                  Home
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/categories"
+                  onClick={[Function]}
+                >
+                  Categories
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/about"
+                  onClick={[Function]}
+                >
+                  About
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/login"
+                  onClick={[Function]}
+                >
+                  Login
+                </a>
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="sc-jeGTLq bEmtah"
+        >
+          <h2
+            className="sc-gsTEea fRjfYf"
+          >
+            Our social media
+          </h2>
+          <ul>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="https://facebook.com"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Facebook
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="https://instagram.com"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Instagram
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="https://twitter.com"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Twitter
+                </a>
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="sc-jeGTLq bEmtah"
+        >
+          <h2
+            className="sc-gsTEea fRjfYf"
+          >
+            Check our apps
+          </h2>
+          <div
+            className="footer-bottom"
+          >
+            <img
+              alt="app store link"
+              src="appstore-banner.png"
+              style={
+                Object {
+                  "marginBottom": "0.5rem",
+                  "width": "120px",
+                }
+              }
+            />
+            <img
+              alt="google play link"
+              src="googleplay-banner.png"
+              style={
+                Object {
+                  "width": "120px",
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Pages/RestaurantDetailPage Loading 1`] = `
+Array [
+  <div
+    id="modal"
+  />,
+  <div
+    className="sc-hTZgZg lpaJRt"
+    data-testid="header"
+  >
+    <a
+      aria-label="go to home page"
+      className="sc-jgHCSr bWoIPH"
+      href="/"
+      onClick={[Function]}
+    >
+      <div
+        className="sc-Azgjq fEhdus"
+      >
+        <svg
+          className="sc-cOajNj ofwyO"
+          fill="none"
+          viewBox="0 0 23 20"
+        >
+          <path
+            className="logo--face-left"
+            d="M11.74 19.1662L6.66566 14.0788L0.82428 11.0619L1.76834 4.49574L0.82428 0.029541L11.74 2.1887V19.1662Z"
+            fill="#61D8DE"
+          />
+          <path
+            className="logo--face-right"
+            d="M11.74 19.1366L16.8143 14.0493L22.6557 11.0619L21.7116 4.49574L22.6557 0.029541L11.74 2.1887V19.1366Z"
+            fill="#4CC8C0"
+          />
+          <path
+            className="logo--ear-bottom-right"
+            d="M22.6262 10.8549L14.4246 2.72113L22.6262 0L21.7411 4.61408L22.6262 10.8549Z"
+            fill="#36C1BF"
+          />
+          <path
+            className="logo--ear-bottom-left"
+            d="M0.883118 10.8549L9.11415 2.69155L0.883118 0L1.79768 4.61408L0.883118 10.8549Z"
+            fill="#36C1BF"
+          />
+          <path
+            className="logo--ear-top-right"
+            d="M21.7115 4.55497C21.564 4.58455 14.454 2.78033 14.454 2.78033L22.5671 0.0592041L21.7115 4.55497Z"
+            fill="#22ACA7"
+          />
+          <path
+            className="logo--ear-top-left"
+            d="M1.79794 4.58452C1.94545 4.6141 9.05541 2.80987 9.05541 2.80987L0.942383 0.0887451L1.79794 4.58452Z"
+            fill="#22ACA7"
+          />
+          <path
+            className="logo--nose"
+            d="M13.3626 17.5394L11.74 16.4451L10.1174 17.5394L11.74 19.1366L13.3626 17.5394Z"
+            fill="#B1DCE3"
+          />
+        </svg>
+        <h4
+          className="sc-gsTEea kxkbCS sc-khAkCZ jkgfPJ"
+        >
+          MealDrop
+        </h4>
+      </div>
+    </a>
+    <div
+      className="sc-gTgzoy bcnXks"
+    >
+      <span
+        className="navigation-items"
+      >
+        <button
+          aria-label="turn on dark mode"
+          className="sc-dQoVA iBDoIs"
+          onClick={[Function]}
+          type="button"
+        >
+          <svg
+            className="sc-kEjbQP kCPhKQ"
+            height="1.5rem"
+            stroke="#2C2C2C "
+            style={
+              Object {
+                "minWidth": "1.5rem",
+              }
+            }
+            width="1.5rem"
+          >
+            <use
+              xlinkHref="sprite-map.svg#sun"
+            />
+          </svg>
+        </button>
+        <a
+          href="/"
+          onClick={[Function]}
+          tabIndex={-1}
+        >
+          <button
+            className="sc-dQoVA AByoX"
+            type="button"
+          >
+            Home
+          </button>
+        </a>
+        <a
+          href="/categories"
+          onClick={[Function]}
+          tabIndex={-1}
+        >
+          <button
+            className="sc-dQoVA AByoX"
+            type="button"
+          >
+            All restaurants
+          </button>
+        </a>
+      </span>
+      <button
+        aria-label="food cart"
+        className="sc-dQoVA bvXfoq"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg
+          className="sc-kEjbQP kCPhKQ"
+          height="1.5rem"
+          stroke="#FFFFFF "
+          style={
+            Object {
+              "minWidth": "1.5rem",
+            }
+          }
+          width="1.5rem"
+        >
+          <use
+            xlinkHref="sprite-map.svg#cart"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>,
+  <div
+    className="sc-higWrZ iIXIwZ"
+  />,
+  <div
+    className="sc-eJMPIT cVFbGA"
+  >
+    <div
+      className="container"
+    >
+      <div
+        className="sc-nFqVA khZwWZ"
+      >
+        <div
+          className="sc-Azgjq fEhdus"
+        >
+          <svg
+            className="sc-cOajNj iuHpNS"
+            fill="none"
+            viewBox="0 0 23 20"
+          >
+            <path
+              className="logo--face-left"
+              d="M11.74 19.1662L6.66566 14.0788L0.82428 11.0619L1.76834 4.49574L0.82428 0.029541L11.74 2.1887V19.1662Z"
+              fill="#61D8DE"
+            />
+            <path
+              className="logo--face-right"
+              d="M11.74 19.1366L16.8143 14.0493L22.6557 11.0619L21.7116 4.49574L22.6557 0.029541L11.74 2.1887V19.1366Z"
+              fill="#4CC8C0"
+            />
+            <path
+              className="logo--ear-bottom-right"
+              d="M22.6262 10.8549L14.4246 2.72113L22.6262 0L21.7411 4.61408L22.6262 10.8549Z"
+              fill="#36C1BF"
+            />
+            <path
+              className="logo--ear-bottom-left"
+              d="M0.883118 10.8549L9.11415 2.69155L0.883118 0L1.79768 4.61408L0.883118 10.8549Z"
+              fill="#36C1BF"
+            />
+            <path
+              className="logo--ear-top-right"
+              d="M21.7115 4.55497C21.564 4.58455 14.454 2.78033 14.454 2.78033L22.5671 0.0592041L21.7115 4.55497Z"
+              fill="#22ACA7"
+            />
+            <path
+              className="logo--ear-top-left"
+              d="M1.79794 4.58452C1.94545 4.6141 9.05541 2.80987 9.05541 2.80987L0.942383 0.0887451L1.79794 4.58452Z"
+              fill="#22ACA7"
+            />
+            <path
+              className="logo--nose"
+              d="M13.3626 17.5394L11.74 16.4451L10.1174 17.5394L11.74 19.1366L13.3626 17.5394Z"
+              fill="#B1DCE3"
+            />
+          </svg>
+        </div>
+        <div
+          className="sc-jeGTLq bEmtah"
+        >
+          <h2
+            className="sc-gsTEea fRjfYf"
+          >
+            Discover us
+          </h2>
+          <ul>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/"
+                  onClick={[Function]}
+                >
+                  Home
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/categories"
+                  onClick={[Function]}
+                >
+                  Categories
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/about"
+                  onClick={[Function]}
+                >
+                  About
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/login"
+                  onClick={[Function]}
+                >
+                  Login
+                </a>
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="sc-jeGTLq bEmtah"
+        >
+          <h2
+            className="sc-gsTEea fRjfYf"
+          >
+            Our social media
+          </h2>
+          <ul>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="https://facebook.com"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Facebook
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="https://instagram.com"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Instagram
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="https://twitter.com"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Twitter
+                </a>
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="sc-jeGTLq bEmtah"
+        >
+          <h2
+            className="sc-gsTEea fRjfYf"
+          >
+            Check our apps
+          </h2>
+          <div
+            className="footer-bottom"
+          >
+            <img
+              alt="app store link"
+              src="appstore-banner.png"
+              style={
+                Object {
+                  "marginBottom": "0.5rem",
+                  "width": "120px",
+                }
+              }
+            />
+            <img
+              alt="google play link"
+              src="googleplay-banner.png"
+              style={
+                Object {
+                  "width": "120px",
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Pages/RestaurantDetailPage Not Found 1`] = `
+Array [
+  <div
+    id="modal"
+  />,
+  <div
+    className="sc-hTZgZg lpaJRt"
+    data-testid="header"
+  >
+    <a
+      aria-label="go to home page"
+      className="sc-jgHCSr bWoIPH"
+      href="/"
+      onClick={[Function]}
+    >
+      <div
+        className="sc-Azgjq fEhdus"
+      >
+        <svg
+          className="sc-cOajNj ofwyO"
+          fill="none"
+          viewBox="0 0 23 20"
+        >
+          <path
+            className="logo--face-left"
+            d="M11.74 19.1662L6.66566 14.0788L0.82428 11.0619L1.76834 4.49574L0.82428 0.029541L11.74 2.1887V19.1662Z"
+            fill="#61D8DE"
+          />
+          <path
+            className="logo--face-right"
+            d="M11.74 19.1366L16.8143 14.0493L22.6557 11.0619L21.7116 4.49574L22.6557 0.029541L11.74 2.1887V19.1366Z"
+            fill="#4CC8C0"
+          />
+          <path
+            className="logo--ear-bottom-right"
+            d="M22.6262 10.8549L14.4246 2.72113L22.6262 0L21.7411 4.61408L22.6262 10.8549Z"
+            fill="#36C1BF"
+          />
+          <path
+            className="logo--ear-bottom-left"
+            d="M0.883118 10.8549L9.11415 2.69155L0.883118 0L1.79768 4.61408L0.883118 10.8549Z"
+            fill="#36C1BF"
+          />
+          <path
+            className="logo--ear-top-right"
+            d="M21.7115 4.55497C21.564 4.58455 14.454 2.78033 14.454 2.78033L22.5671 0.0592041L21.7115 4.55497Z"
+            fill="#22ACA7"
+          />
+          <path
+            className="logo--ear-top-left"
+            d="M1.79794 4.58452C1.94545 4.6141 9.05541 2.80987 9.05541 2.80987L0.942383 0.0887451L1.79794 4.58452Z"
+            fill="#22ACA7"
+          />
+          <path
+            className="logo--nose"
+            d="M13.3626 17.5394L11.74 16.4451L10.1174 17.5394L11.74 19.1366L13.3626 17.5394Z"
+            fill="#B1DCE3"
+          />
+        </svg>
+        <h4
+          className="sc-gsTEea kxkbCS sc-khAkCZ jkgfPJ"
+        >
+          MealDrop
+        </h4>
+      </div>
+    </a>
+    <div
+      className="sc-gTgzoy bcnXks"
+    >
+      <span
+        className="navigation-items"
+      >
+        <button
+          aria-label="turn on dark mode"
+          className="sc-dQoVA iBDoIs"
+          onClick={[Function]}
+          type="button"
+        >
+          <svg
+            className="sc-kEjbQP kCPhKQ"
+            height="1.5rem"
+            stroke="#2C2C2C "
+            style={
+              Object {
+                "minWidth": "1.5rem",
+              }
+            }
+            width="1.5rem"
+          >
+            <use
+              xlinkHref="sprite-map.svg#sun"
+            />
+          </svg>
+        </button>
+        <a
+          href="/"
+          onClick={[Function]}
+          tabIndex={-1}
+        >
+          <button
+            className="sc-dQoVA AByoX"
+            type="button"
+          >
+            Home
+          </button>
+        </a>
+        <a
+          href="/categories"
+          onClick={[Function]}
+          tabIndex={-1}
+        >
+          <button
+            className="sc-dQoVA AByoX"
+            type="button"
+          >
+            All restaurants
+          </button>
+        </a>
+      </span>
+      <button
+        aria-label="food cart"
+        className="sc-dQoVA bvXfoq"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg
+          className="sc-kEjbQP kCPhKQ"
+          height="1.5rem"
+          stroke="#FFFFFF "
+          style={
+            Object {
+              "minWidth": "1.5rem",
+            }
+          }
+          width="1.5rem"
+        >
+          <use
+            xlinkHref="sprite-map.svg#cart"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>,
+  <div
+    className="sc-higWrZ iIXIwZ"
+  />,
+  <div
+    className="sc-eJMPIT cVFbGA"
+  >
+    <div
+      className="container"
+    >
+      <div
+        className="sc-nFqVA khZwWZ"
+      >
+        <div
+          className="sc-Azgjq fEhdus"
+        >
+          <svg
+            className="sc-cOajNj iuHpNS"
+            fill="none"
+            viewBox="0 0 23 20"
+          >
+            <path
+              className="logo--face-left"
+              d="M11.74 19.1662L6.66566 14.0788L0.82428 11.0619L1.76834 4.49574L0.82428 0.029541L11.74 2.1887V19.1662Z"
+              fill="#61D8DE"
+            />
+            <path
+              className="logo--face-right"
+              d="M11.74 19.1366L16.8143 14.0493L22.6557 11.0619L21.7116 4.49574L22.6557 0.029541L11.74 2.1887V19.1366Z"
+              fill="#4CC8C0"
+            />
+            <path
+              className="logo--ear-bottom-right"
+              d="M22.6262 10.8549L14.4246 2.72113L22.6262 0L21.7411 4.61408L22.6262 10.8549Z"
+              fill="#36C1BF"
+            />
+            <path
+              className="logo--ear-bottom-left"
+              d="M0.883118 10.8549L9.11415 2.69155L0.883118 0L1.79768 4.61408L0.883118 10.8549Z"
+              fill="#36C1BF"
+            />
+            <path
+              className="logo--ear-top-right"
+              d="M21.7115 4.55497C21.564 4.58455 14.454 2.78033 14.454 2.78033L22.5671 0.0592041L21.7115 4.55497Z"
+              fill="#22ACA7"
+            />
+            <path
+              className="logo--ear-top-left"
+              d="M1.79794 4.58452C1.94545 4.6141 9.05541 2.80987 9.05541 2.80987L0.942383 0.0887451L1.79794 4.58452Z"
+              fill="#22ACA7"
+            />
+            <path
+              className="logo--nose"
+              d="M13.3626 17.5394L11.74 16.4451L10.1174 17.5394L11.74 19.1366L13.3626 17.5394Z"
+              fill="#B1DCE3"
+            />
+          </svg>
+        </div>
+        <div
+          className="sc-jeGTLq bEmtah"
+        >
+          <h2
+            className="sc-gsTEea fRjfYf"
+          >
+            Discover us
+          </h2>
+          <ul>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/"
+                  onClick={[Function]}
+                >
+                  Home
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/categories"
+                  onClick={[Function]}
+                >
+                  Categories
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/about"
+                  onClick={[Function]}
+                >
+                  About
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="/login"
+                  onClick={[Function]}
+                >
+                  Login
+                </a>
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="sc-jeGTLq bEmtah"
+        >
+          <h2
+            className="sc-gsTEea fRjfYf"
+          >
+            Our social media
+          </h2>
+          <ul>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="https://facebook.com"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Facebook
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="https://instagram.com"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Instagram
+                </a>
+              </p>
+            </li>
+            <li>
+              <p
+                className="sc-bdfBQB iMrOPE"
+                fontWeight="regular"
+                size=""
+              >
+                <a
+                  href="https://twitter.com"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Twitter
+                </a>
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="sc-jeGTLq bEmtah"
+        >
+          <h2
+            className="sc-gsTEea fRjfYf"
+          >
+            Check our apps
+          </h2>
+          <div
+            className="footer-bottom"
+          >
+            <img
+              alt="app store link"
+              src="appstore-banner.png"
+              style={
+                Object {
+                  "marginBottom": "0.5rem",
+                  "width": "120px",
+                }
+              }
+            />
+            <img
+              alt="google play link"
+              src="googleplay-banner.png"
+              style={
+                Object {
+                  "width": "120px",
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
